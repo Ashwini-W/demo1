@@ -1,9 +1,7 @@
 print('aa')
-<<<<<<< HEAD
-
-#=== Fourth comment
-=======
 ##
 
 ##second comment
->>>>>>> origin
+
+
+# 4th comment
